@@ -6,7 +6,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Ayush Zala</h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
+<h3 align="center">A passionate Full Stack Developer & Competitive Programmer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/5WJ6K7XnP2K2p3VWft/giphy.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayush4460&label=Profile%20views&color=0e75b6&style=flat" alt="ayush4460" /> </p>
 
