@@ -10,7 +10,7 @@
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/5WJ6K7XnP2K2p3VWft/giphy.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayush4460&label=Profile%20views&color=0e75b6&style=flat" alt="ayush4460" /> </p>
 
-- 🔭 I’m currently working on [Snapchat Filter](https://github.com/ayush4460/Snapchat-Filter)
+- 🔭 I’m currently working on [Netflix-Clone](https://github.com/ayush4460/Netflix-Clone)
 
 - 💬 Ask me about **Reactjs, Nextjs, Nodejs, C++, DSA, Competitive Programming**
 
