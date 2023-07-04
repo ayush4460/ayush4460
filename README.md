@@ -1,6 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently working on File-Sharing App.<br>👯 I’m looking to collaborate on Web Development Projects.<br>🌱 I’m currently learning Redux.<br>💬 Ask me about MERN Stack & Redux.<br>⚡ Fun fact I think I am caught in a time loop.
-
+---
+[![](https://visitcount.itsvg.in/api?id=ayush4460&icon=6&color=4)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/channels/732901630051352576) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ayush-zala-43b9001ba) 
@@ -15,7 +16,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ayush4460&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
----
-[![](https://visitcount.itsvg.in/api?id=ayush4460&icon=6&color=4)](https://visitcount.itsvg.in)
+
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
