@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a Cart-App using Redux<br>👯 I’m looking to collaborate on Web Development Projects<br>🌱 I’m currently learning Redux<br>💬 Ask me about MERN Stack <br>⚡ Fun fact I think I am caught in a time loop.
+🔭 I’m currently working on a Cart-App using Redux<br>👯 I’m looking to collaborate on Web Development Projects<br>🌱 I’m currently learning Redux<br>💬 Ask me about MERN Stack <br>⚡ Fun fact I think I am caught in a time loop
 ---
 [![](https://visitcount.itsvg.in/api?id=ayush4460&icon=6&color=4)](https://visitcount.itsvg.in)
 
